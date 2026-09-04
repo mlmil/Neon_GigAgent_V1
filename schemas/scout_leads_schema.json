@@ -1,0 +1,73 @@
+{
+  "columns": [
+    "lead_id",
+    "venue_name",
+    "city",
+    "county",
+    "region_priority",
+    "status",
+    "lead_score",
+    "gig_type",
+    "source_type",
+    "source_url",
+    "similar_bands_seen",
+    "booking_contact_name",
+    "booking_contact_email",
+    "booking_contact_phone",
+    "lead_owner",
+    "next_action",
+    "follow_up_date",
+    "last_checked",
+    "notes"
+  ],
+  "allowed_statuses": [
+    "discovered",
+    "researching",
+    "qualified",
+    "ready_to_contact",
+    "contacted",
+    "follow_up",
+    "warm",
+    "not_a_fit",
+    "booked",
+    "converted_to_venue_agent"
+  ],
+  "allowed_gig_types": [
+    "club",
+    "festival",
+    "municipal",
+    "private_club"
+  ],
+  "allowed_source_types": [
+    "venue_website",
+    "venue_calendar",
+    "venue_social",
+    "local_event_listing",
+    "band_social",
+    "chamber_of_commerce",
+    "parks_rec",
+    "fraternal_org",
+    "referral",
+    "other"
+  ],
+  "allowed_owners": [
+    "Mike Miller",
+    "Alfred Morlaes",
+    "Curtis Clyde",
+    "unassigned"
+  ],
+  "allowed_region_priorities": [1, 2, 3],
+  "lead_id_format": "{REGION_PREFIX}-{NNN}",
+  "lead_id_prefixes": {
+    "Ventura County": "VC",
+    "Santa Barbara County": "SB",
+    "Malibu": "MAL",
+    "Calabasas": "CAL",
+    "San Fernando Valley": "SFV",
+    "LA County": "LA",
+    "Central Coast": "CC"
+  },
+  "lead_score_range": [0, 100],
+  "stale_days_threshold": 60,
+  "date_format": "YYYY-MM-DD"
+}
