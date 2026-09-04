@@ -84,22 +84,25 @@ Scout lead = prospect only.
 Confirmed gig = calendar event exists or Mike explicitly confirms it.
 ```
 
-## Target Regions
+## Target Regions (Reach: San Francisco to San Diego)
 
-Priority 1:
+Priority 1 (Core Home Circuit & High Venue Density):
 
 - Ventura County
 - Santa Barbara County
-- Malibu & Calabasas (high target, high venue concentration)
+- Malibu & Calabasas
 
-Priority 2:
+Priority 2 (Secondary & Connecting Corridors):
 
 - San Fernando Valley
-- LA County / Los Angeles (lower target than Malibu and Calabasas)
+- LA County / Los Angeles
+- Orange County
 
-Priority 3:
+Priority 3 (Destination / Extended Reach Corridors):
 
-- Central Coast / overflow
+- San Diego County (South Anchor)
+- Central Coast / SLO / Paso Robles (Mid-Coast)
+- San Francisco & Bay Area (North Anchor)
 
 ## Source Rules
 

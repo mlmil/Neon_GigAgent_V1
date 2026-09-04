@@ -35,11 +35,14 @@ Neon_GigAgent/
 ├── scripts/
 │   └── scout_agent_tool.py        # CLI validator, scorer, and report tool
 ├── regions/                       # Regional dossiers & venue notes
-│   ├── malibu-calabasas.md        # Priority 1
-│   ├── ventura-county.md          # Priority 1
-│   ├── santa-barbara-county.md    # Priority 1
-│   ├── la-valley.md               # Priority 2
-│   └── central-coast.md           # Priority 3
+│   ├── malibu-calabasas.md        # Priority 1: High venue density
+│   ├── ventura-county.md          # Priority 1: Home territory
+│   ├── santa-barbara-county.md    # Priority 1: Premium coastal & wine country
+│   ├── la-valley.md               # Priority 2: San Fernando Valley & LA
+│   ├── orange-county.md           # Priority 2: Coastal & South OC
+│   ├── san-diego.md               # Priority 3: South reach anchor
+│   ├── central-coast.md           # Priority 3: Mid-coast overflow
+│   └── san-francisco-bay-area.md  # Priority 3: North reach anchor
 ├── reports/                       # Weekly generated Scout reports
 └── tests/
     └── test_scout_agent_tool.py   # Test suite
@@ -47,7 +50,9 @@ Neon_GigAgent/
 
 ---
 
-## 3. Lead Schema & ID Conventions
+## 3. Geographic Reach & ID Conventions
+
+`Neon_Gig_Agent_v1` covers the California coastal corridor from **San Francisco to San Diego**:
 
 Lead IDs follow the format `{PREFIX}-{NNN}`:
 - `MAL`: Malibu (Priority 1)
@@ -56,7 +61,10 @@ Lead IDs follow the format `{PREFIX}-{NNN}`:
 - `SB`: Santa Barbara County (Priority 1)
 - `SFV`: San Fernando Valley (Priority 2)
 - `LA`: Greater Los Angeles (Priority 2)
-- `CC`: Central Coast (Priority 3)
+- `OC`: Orange County (Priority 2)
+- `SD`: San Diego County (Priority 3 - South Corridor)
+- `CC`: Central Coast (Priority 3 - Mid-Coast)
+- `SF`: San Francisco & Bay Area (Priority 3 - North Corridor)
 
 ---
 

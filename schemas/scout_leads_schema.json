@@ -65,7 +65,10 @@
     "Calabasas": "CAL",
     "San Fernando Valley": "SFV",
     "LA County": "LA",
-    "Central Coast": "CC"
+    "Orange County": "OC",
+    "San Diego County": "SD",
+    "Central Coast": "CC",
+    "Bay Area / San Francisco": "SF"
   },
   "lead_score_range": [0, 100],
   "stale_days_threshold": 60,

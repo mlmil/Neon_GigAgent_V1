@@ -6,7 +6,7 @@
 
 ## Current Goal
 
-Operate `Neon_Gig_Agent_v1` to discover, qualify, score (0–100), and track high-probability venue opportunities in Priority 1 regions (Ventura County, Santa Barbara County, Malibu, and Calabasas).
+Operate `Neon_Gig_Agent_v1` to discover, qualify, score (0–100), and track high-probability venue opportunities across the California coastal reach spanning **San Francisco to San Diego**, focused on Priority 1 territories (Ventura County, Santa Barbara County, Malibu, and Calabasas).
 
 ## Important People Or Stakeholders
 

@@ -6,10 +6,10 @@
 
 Scout Agent identifies, qualifies, scores, and tracks potential live music venues, private clubs, festival stages, and municipal concert series before they enter the booking pipeline.
 
-### Target Regions
-- **Priority 1**: Ventura County, Santa Barbara County, Malibu & Calabasas (High venue density)
-- **Priority 2**: San Fernando Valley & Greater Los Angeles
-- **Priority 3**: Central Coast (Destination & tour overflow)
+### Target Regions (Reach: San Francisco to San Diego)
+- **Priority 1**: Ventura County, Santa Barbara County, Malibu & Calabasas (High venue density & core circuit)
+- **Priority 2**: San Fernando Valley, Greater Los Angeles, Orange County
+- **Priority 3**: San Diego County, Central Coast, San Francisco & Bay Area (Destination & tour runs)
 
 ---
 
